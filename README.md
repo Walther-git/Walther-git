@@ -51,4 +51,4 @@ const WhoIAm = {
 
 <br>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Walther-git&theme=dracula](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&theme=dracula](https://github.com/ashutosh00710/github-readme-activity-graph)
