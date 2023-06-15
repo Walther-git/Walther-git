@@ -51,4 +51,4 @@ const WhoIAm = {
 
 <br>
 
-[![Walther-git github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Walther-git&theme=react-dark)](https://github.com/Walther-git/github-readme-activity-graph)
+[![Walther-git github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Walther-git&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
