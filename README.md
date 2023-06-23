@@ -1,6 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100&color=5BCDEC&width=435&height=40&lines=Hi+there%F0%9F%91%8B;I'm+Web+Developer;Focused+in+FrontEnd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100&color=5BCDEC&width=435&height=40&lines=Hi+there%F0%9F%91%8B;Web+Developer+here;Focused+in+FrontEnd)](https://git.io/typing-svg)
 
 #### About:
 
