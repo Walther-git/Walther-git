@@ -4,13 +4,13 @@
 
 #### About:
 
-- I'm **passionate** about anything that **makes you think**, I love programming and being self-taught solving any type of problem, thanks to programming, I am now a **quiet** and **calm** person for years raging solving problems in **code**.
+- **passionate** about anything that **makes you think**, love programming and being self-taught solving any type of problem, thanks to programming, **quiet** and **calm** person for years raging solving problems in **code**.
 
-- I'm **open-minded** and always like to listen to others and **learn more every day**, there is always a way to be and do better.
+- **open-minded** and always like to listen to others and **learn more every day**, there is always a way to be and do better.
 
 #### BIO:
 
-- ⚙️ I use daily:  `.js`, `.html`, `.css`, `.svg`, `.jsx`
+- ⚙️ daily:  `.js`, `.html`, `.css`, `.svg`, `.jsx`
 - 🌱 Learning all about **Web Developmen** and **Game Developmen**
 - 💬 Ping me about **UI/UX**, **desing**, **development**
 - ⚡️ Fun fact: I'm a huge fan of Kimetsu no Yaiba
